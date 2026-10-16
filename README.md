@@ -1,2 +1,2 @@
 # Iskolai bufe API
-Idkolsi büfé API feladat
+Idkolai büfé API feladat
