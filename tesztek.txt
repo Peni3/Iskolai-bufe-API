@@ -1,0 +1,5 @@
+GET /api/termekek Minden termék -> működik
+GET /api/termekek/darab { darab: 6 } -> működik
+GET /api/termekek/ossz-keszlet Készletösszeg -> 98 az összkészlet, működik
+GET /api/termekek/kategoriak Egyedi kategóriák és számuk -> működik
+GET /api/termekek/:id Egy termék vagy 404 -> 404, nincs ilyen termék/ működik
